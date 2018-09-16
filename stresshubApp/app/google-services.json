@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97283405722",
+    "firebase_url": "https://lumohacks-project-d9ce0.firebaseio.com",
+    "project_id": "lumohacks-project-d9ce0",
+    "storage_bucket": "lumohacks-project-d9ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97283405722:android:c0259a1ab0999e85",
+        "android_client_info": {
+          "package_name": "com.ubcengineers.stresshubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97283405722-2qc0s62s8ur59ohfqdpqq92rkosksa6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubcengineers.stresshubapp",
+            "certificate_hash": "5073b723095977e518b4f2a26fb76b4c9075dabc"
+          }
+        },
+        {
+          "client_id": "97283405722-bp7ne1vockhgd0hmhja3eo90j9mn4vmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3eAC8gDnmi10F2OU-NDGlCtI3FdYhoKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97283405722-bp7ne1vockhgd0hmhja3eo90j9mn4vmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
