@@ -93,6 +93,7 @@ public class Card extends Activity{
         }
         else if (mIsTextPrompt) {
             SurveySender.setName(mTextInput.getText().toString());
+            SurveySender.setEmail(mTextEmail.getText().toString());
         }
     }
 
