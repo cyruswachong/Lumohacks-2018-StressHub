@@ -1,16 +1,19 @@
-int tempPin = 2;  
+int tempPin = 3;  
 int value;
-int temperature;
+float temperature;
 
 void setup() 
 {
-  tempPin = 2;
+  Serial.begin(9600);
+  tempPin = 0;  
   pinMode(tempPin, INPUT);
 }
 
 void loop()
 {
-  temperature = analogRead(tempPin);
+  temperature = analogRead(A0);
+  temperature = temperature/24;
   Serial.print(temperature);
-  delay(1000);
+  Serial.print("\n");
+  delay(100);
 }
