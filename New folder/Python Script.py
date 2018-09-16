@@ -17,12 +17,13 @@ serialport = serial.Serial('COM6', 9600, timeout=0.5)
 while True:
 
     command = serialport.readline()
-    time.sleep(7.5)
+    time.sleep(0.5)
     serialport.flushInput()
     serialport.flushOutput()
-    time.sleep(7.5)
-    if(len(str(command)) == 7):
-        print ((str(command))[2:4])
-        database.update({'unprocessed':{'score':(str(command))[2:4]}})
+    time.sleep(0.5)
+    if(len(str(command)) == 10):
+        print ((str(command))[2:7])
+        database.push({'unprocessed':{'score':(str(command))[2:7]}})
 
+        
 ser.close()
