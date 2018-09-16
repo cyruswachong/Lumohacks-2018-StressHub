@@ -1,40 +1,5 @@
-Chest pain, rapid heartbeat:
+"Have you felt like you’ve had low energy recently?", "Have your levels of energy felt lower than usual lately?", "Have you been experiencing frequent migraines or headaches recently?", "Have you been experiencing nausea, or have frequent stomach pain?", "Have you experienced any odd bowel movements, such as diarrhea or constipation?", "Have you been experiencing an increase in aches or tenseness of muscles?", "Have you had trouble sleeping lately?", "Have you experienced nightmares lately?", "Have you had the same nightmare many times?", "Have you experienced an above average amount of colds or infections?", "Have you lost sexual desire or sexual ability?", "Have you felt nervous or anxious recently?", "Have your ears been ringing?", "Have you had abnormally sweaty hands or feet?", "Have you experienced difficulty swallowing, or a dry mouth?", "Have you found yourself grinding your teeth, or clenching your jaw frequently?", "Have you been worried more than usual?", "Have you found your thoughts racing?", 
+"Have you been forgetful or disorganized recently?", "Have you found it hard to focus recently?", "Have you been oddly negative or pessimistic recently?", "Have you lost appetite, or ate more than usual recently?", "Have you been avoiding responsibilities recently?", "Have you used drugs, such as cigarettes and alcohol more than normal?"
 
 
-Physical symptoms:
-Have you felt like you’ve had low energy recently?
-Have your levels of energy felt lower than usual lately?
-Have you been experiencing frequent migraines or headaches recently?
-Have you been experiencing nausea, or have frequent stomach pain?
-Have you experienced any odd bowel movements, such as diarrhea or constipation?
-Have you experienced odd pains or soreness recently?
-Have you been experiencing an increase in aches or tenseness of muscles?
-Have you had trouble sleeping lately?
-Have you experienced nightmares?
-Have you had the same nightmare many times?
-Have you experienced an above average amount of colds or infections?
-Have you lost sexual desire or sexual ability?
-Have you felt nervous or anxious recently?
-Have your ears been ringing?
-Have you had abnormally sweaty hands or feet?
-Have you experienced difficulty swallowing, or a dry mouth?
-Have you found yourself grinding your teeth, or clenching your jaw frequently?
-
-Cognitive symptoms:
-
-Have you been worried more than usual?
-Have you found your thoughts racing?
-Have you been forgetful or disorganized recently?
-Have you found it hard to focus recently?
-Have you been oddly negative or pessimistic recently?
-
-Behavioral symptoms:
-Have you lost appetite, or ate more than usual recently?
-Have you been avoiding responsibilities recently?
-Have you used drugs, such as cigarettes and alcohol more than normal?
-
-
-https://www.webmd.com/balance/stress-management/stress-symptoms-effects_of-stress-on-the-body#2
-
-https://www.stress.org/stress-effects/
 
